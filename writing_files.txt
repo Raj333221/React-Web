@@ -1,0 +1,6 @@
+Hello from Python 201 !
+ New Line!
+	Tabbed New Line
+ r = read
+ w = write
+ a = append
